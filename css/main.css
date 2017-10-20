@@ -92,3 +92,8 @@ img {
   margin: .5em;
   width: 100%;
 }
+
+nav .current {
+  background-color: #b20953;
+  border-color: #b20953;
+}
