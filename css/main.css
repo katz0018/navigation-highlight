@@ -32,7 +32,7 @@ nav ul li {
   background-color: #b2a212;
   color: #fff;
   border-radius: 4px;
-  padding: .5em  .75em;
+  padding: .3em  .5em;
   line-height: 1.5;
   margin-bottom: .3em;
 }
@@ -42,7 +42,7 @@ nav {
   margin: 0;
 }
 
- ul {
+ul {
   margin: 0;
   padding-left: 0;
 }
