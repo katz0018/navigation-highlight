@@ -14,7 +14,7 @@ body {
 header {
   background-color: #ffe500;
   margin: 0;
-  padding-bottom: .75em;
+  padding-bottom: .2em;
 }
 
 h1{
@@ -49,7 +49,9 @@ nav ul {
 nav ul a {
   text-decoration: none;
   color: #fff;
-  font-family: sans-serif;
+  font-family: "Georgia";
+  font-size: 1.125rem;
+  margin: 0;
 }
 
 ul :hover {
@@ -62,6 +64,7 @@ h2 {
   color: #b20953;
   font-size: 1.875rem;
   margin-left: .3em;
+  padding: 0;
 }
 
 main {
@@ -77,6 +80,11 @@ main {
 footer {
   background-color: #ffe500;
   text-align: center;
-  padding: .75em;
+  padding: 1.5em;
   font-size: .75em;
+}
+
+img {
+  margin: .5em;
+  width: 95%;
 }
