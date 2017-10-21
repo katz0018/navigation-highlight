@@ -50,7 +50,7 @@ ul a {
   background-color: #b2a212;
   color: #fff;
   border-radius: 4px;
-  padding: .5em  .5em;
+  padding: .5em;
   line-height: 1.5;
 }
 
@@ -99,5 +99,5 @@ div {
 img {
   display: block;
   width: 100%;
-  max-width: 25em;
+  max-width: 50em;
 }
