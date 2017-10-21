@@ -93,10 +93,11 @@ footer {
 
 div {
   margin: 0;
+  padding: 1em;
 }
 
 img {
   display: block;
   width: 100%;
-  max-width: 50em;
+  max-width: 40em;
 }
