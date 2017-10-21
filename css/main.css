@@ -14,6 +14,7 @@ body {
 header {
   background-color: #ffe500;
   margin: 0;
+  padding: 0;
 }
 
 h1 {
@@ -22,12 +23,13 @@ h1 {
   color: #b20953;
   margin: 0;
   font-size: 3rem;
+  padding: 0;
 }
 
 nav ul li {
   list-style-type: none;
   display: inline-block;
-  margin-bottom: .5em;
+  margin-bottom: .7em;
 }
 
 nav {
@@ -48,7 +50,7 @@ ul a {
   background-color: #b2a212;
   color: #fff;
   border-radius: 4px;
-  padding: .4em  .5em;
+  padding: .5em  .5em;
   line-height: 1.5;
 }
 
@@ -86,12 +88,16 @@ main {
 footer {
   background-color: #ffe500;
   text-align: center;
-  padding: 1.5em;
+  padding: .75em;
+}
+
+div {
+  margin: 0;
+  padding: 5em;
 }
 
 img {
   display: block;
-  margin: auto;
-  width: auto;
-  max-width: 95%;
+  width: 100%;
+  max-width: 25em;
 }
