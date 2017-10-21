@@ -68,7 +68,6 @@ h2 {
   color: #b20953;
   font-size: 1.875rem;
   margin: .3em;
-  padding: .3em;
 }
 
 main {
@@ -99,5 +98,5 @@ div {
 img {
   display: block;
   width: 100%;
-  max-width: 40em;
+  max-width: 45em;
 }
