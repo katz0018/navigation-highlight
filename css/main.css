@@ -27,14 +27,8 @@ h1 {
 
 nav ul li {
   list-style-type: none;
-  text-decoration: none;
   display: inline-block;
-  background-color: #b2a212;
-  color: #fff;
-  border-radius: 4px;
-  padding: .3em  .5em;
-  line-height: 1.5;
-  margin-bottom: .3em;
+  margin-bottom: .5em;
 }
 
 nav {
@@ -47,19 +41,23 @@ ul {
   padding-left: 0;
 }
 
-.nav a {
+ul a {
   text-decoration: none;
-  color: #fff;
   font-family: Georgia;
   font-size: 1.125rem;
   margin: 0;
+  background-color: #b2a212;
+  color: #fff;
+  border-radius: 4px;
+  padding: .3em  .5em;
+  line-height: 1.5;
 }
 
-.nav :hover {
+nav ul a:hover {
   background-color: #cc1465;
 }
 
-.nav .current {
+.current {
   background-color: #b20953;
 
 }
