@@ -67,9 +67,8 @@ h2 {
   font-family: "Sigmar One";
   color: #b20953;
   font-size: 1.875rem;
-  margin-left: .3em;
+  margin: .3em;
   padding: 0;
-  margin: 0;
 }
 
 main {
