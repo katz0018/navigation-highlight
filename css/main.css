@@ -50,7 +50,7 @@ ul a {
   background-color: #b2a212;
   color: #fff;
   border-radius: 4px;
-  padding: .5em;
+  padding: .4em;
   line-height: 1.5;
 }
 
@@ -68,6 +68,7 @@ h2 {
   color: #b20953;
   font-size: 1.875rem;
   margin-left: .3em;
+  margin-top: .6em;
 }
 
 main {
@@ -75,9 +76,10 @@ main {
 }
 
 .ip {
-  font-family: Georgia;
-  margin-left: .3em;
-  line-height: 1.5;
+  margin: .8em;
+  font-size: 1.125em;
+  line-height: 1.2;
+  color: #2f2d13;
 }
 
 .ip b {
@@ -95,10 +97,12 @@ div {
 }
 
 p {
-margin: .8em;
-font-size: 1.125em;
-line-height: 1.125;
+  margin: .8em;
+  font-size: 1.125em;
+  line-height: 1.2;
+  color: #2f2d13;
 }
+
 img {
   display: block;
   width: 100%;
